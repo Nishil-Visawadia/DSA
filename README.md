@@ -1,2 +1,6 @@
-# Gallerie
-This is NFT Marketplace made with JavaScript and Solidity
+# DSA
+Different Data Structures & Algorithm Problem in Python. 
+
+Welcome for any Contribution to this Repo.
+
+
